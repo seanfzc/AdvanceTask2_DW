@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AdvanceTask2_DW", "AdvanceTask2_DW.dtproj", "{D62E1D58-1F80-41EC-9FD3-C2E1725DE548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62E1D58-1F80-41EC-9FD3-C2E1725DE548}.Development|Default.ActiveCfg = Development
+		{D62E1D58-1F80-41EC-9FD3-C2E1725DE548}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D93CF24-4840-430F-864A-6568219B1A3B}
+	EndGlobalSection
+EndGlobal
